@@ -1,0 +1,73 @@
+.header-Red{
+    color: rgb(99, 7, 7);
+    text-align: center;
+}
+.headercolour{
+    color: rgb(99, 7, 7);
+}
+
+.homeImg {
+    width: 1800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.menuTable{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menuItemTh
+{
+    width: 20%;
+}
+
+.menuItem{
+color: black;
+}
+
+.fieldsTable{
+    width: 100%;
+    padding: 10px;;
+}
+
+.fieldsTd{
+    width: 33%;
+}
+
+.menuTitle{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Page3{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Giftsandservices{
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.skincare{
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.Page4{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Page5{
+    margin-left: auto;
+    margin-right: auto;
+}
